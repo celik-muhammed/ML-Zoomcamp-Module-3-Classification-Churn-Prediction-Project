@@ -1,0 +1,3 @@
+# granular control over line endings for specific files or paths
+*.ipynb text eol=lf
+*.csv text eol=lf
