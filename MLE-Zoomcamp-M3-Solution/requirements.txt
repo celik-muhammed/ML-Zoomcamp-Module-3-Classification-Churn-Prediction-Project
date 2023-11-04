@@ -19,6 +19,28 @@ xgboost
 optuna
 hyperopt
 
+# MLOPS experiment-tracking Packages
+mlflow
+wandb
+
+# MLOPS Orchestration Packages
+boto3
+prefect
+prefect-aws
+prefect-email
+
+# MLOPS Monitoring Packages
+evidently
+psycopg
+psycopg[binary]
+
+# Optionally
+requests
+# for py file parameter
+click
+# for code style
+black
+
 # Optionally
 jupyter
 ipykernel
